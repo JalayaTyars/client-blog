@@ -1,0 +1,87 @@
+header{
+    padding:50px;
+    background: url("images/client-blog.jpg") repeat center center fixed;
+    background-size: cover;
+    margin-bottom:25px;
+    font-family: 'PT Serif', serif;
+
+}
+h1{
+    font-size: 68px;
+    text-align: left;
+    display: inline-block;
+    font-family: 'PT Serif', serif;
+}
+h2{
+    padding:15px;
+    font-size:45px;
+    margin-left: 50px;
+    font-family: 'PT Serif', serif;
+    text-shadow: 4px 0px 8px rgba(35, 35, 81, 1);
+    
+}
+h3{
+    padding: 0px;
+    margin:0px;
+    font-family: 'PT Serif', serif;
+}
+figure{
+    text-align: center;
+    background: rgba(128, 128, 128, 0.66);
+    padding-top: 0px;
+    padding-bottom:45px;
+    padding-left:  45px;
+    padding-right: 45px;
+    margin: 25px auto 25px;
+    width: 700px;
+    position: center;
+    border: 35px 55px 35px 55px;
+    
+
+}
+figcaption{
+    margin-bottom:55px;
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    margin: auto;
+    width: 750px;
+    padding:5px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+footer{
+    padding:50px;
+    font-size:25px;
+    text-align: center;
+    background: url("images/client-2.jpg") repeat center center fixed;
+    background-size: cover;
+    color:#ffffff;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 100px;
+    
+}
+a{
+    text-decoration: none;
+    text-shadow: 4px 0px 8px rgba(35, 35, 81, 1);
+    font-weight: 60%;
+    font-size: 20px;
+    border: 5px solid rgb(35, 35, 81);
+    color:rgb(35, 35, 81) ;
+    padding:20px;
+    font-family: 'Open Sans', sans-serif;
+    background: #ffffff;
+    border-radius: 25%;
+    
+    
+}
+a:hover{
+    background: #808080 
+}
+img{
+    width: 600px;
+    height: 425px;
+}
+hr{
+    width:50%;
+}
